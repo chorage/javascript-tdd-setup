@@ -2,8 +2,13 @@
   "name": "javascript-tdd-setup",
   "version": "1.0.0",
   "description": "",
-  "main": "library.js",
+  "main": "sum_of_primes.js",
+  "repository":{
+  "type":"git",
+  "url": "https//github.com/chorage/javascript-tdd-setup"
+  },
   "dependencies": {
+
     "chai": "^3.5.0"
   },
   "devDependencies": {
